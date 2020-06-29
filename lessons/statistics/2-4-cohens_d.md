@@ -1,4 +1,4 @@
-[Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
+#[Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 `def cohen_d(col_one,col_two):
     mean_diff= np.mean(col_one)-np.mean(col_two)
