@@ -9,4 +9,15 @@ thinkplot.hist(random_pmf,width=.2)
 
 ```
 
-![ex4pic1]("/lessons/statistics/ex4pic1.png")
+![ex4pic1](/lessons/statistics/ex4pic1.png)
+
+This shows a uniform distribution. 
+
+```
+cdf = thinkstats2.Cdf(random_array, label='random')
+
+thinkplot.Cdf(cdf)
+
+
+![ex4pic1](/lessons/statistics/ex4pic2.png)
+
