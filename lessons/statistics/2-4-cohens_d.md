@@ -11,4 +11,11 @@ def cohen_d(col_one,col_two):
     print(mean_diff/pooled_dev)
     
     
-cohen_d(firsts.totalwgt_lb,others.totalwgt_lb)```
+cohen_d(firsts.totalwgt_lb,others.totalwgt_lb)
+```
+
+First you define the function, then you enter the two columns that you want to compare.
+
+```
+-0.08868274594713024
+```
