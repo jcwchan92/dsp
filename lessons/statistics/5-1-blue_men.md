@@ -13,8 +13,8 @@ print(dist.cdf(mu+(z_max*sigma))-dist.cdf(mu+(z_min*sigma)))
 ```
 Returns:
 
-Percent lower than 5 10: 0.48963902786483265
+## Percent lower than 5'10" : 0.48963902786483265
 
-Percent lower than 6 : 1.8323858654963063
+ ## Percent lower than 6'1" : 1.8323858654963063
 
-Difference: 0.3427468376314737
+## Difference : 0.3427468376314737 ## 
