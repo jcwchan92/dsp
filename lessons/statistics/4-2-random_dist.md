@@ -18,6 +18,8 @@ cdf = thinkstats2.Cdf(random_array, label='random')
 
 thinkplot.Cdf(cdf)
 
-
+```
 ![ex4pic1](/lessons/statistics/ex4pic2.png)
+
+Every x equals every y so it is uniform.
 
